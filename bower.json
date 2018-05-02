@@ -1,0 +1,17 @@
+{
+  "name": "bower.json",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sergiu Leu <sergiu_leu@mail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sergiuy0z/KBC-front-end",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
